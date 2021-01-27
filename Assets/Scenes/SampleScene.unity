@@ -2779,7 +2779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1641144759}
-  maxScore: 5
+  maxScore: 9
 --- !u!4 &1530934686
 Transform:
   m_ObjectHideFlags: 0
@@ -3164,7 +3164,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1610665596}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 25, z: -71.9}
+  m_LocalPosition: {x: 0, y: 25, z: -71.6}
   m_LocalScale: {x: 130, y: 50, z: 10}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4014,8 +4014,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.96413636, y: 1.056428, z: 1.0455937}
-  m_Center: {x: 0.6243652, y: -0.028213978, z: -0.02279687}
+  m_Size: {x: 0.53923166, y: 1.3000767, z: 1.0455937}
+  m_Center: {x: 0.58085364, y: 0.093610376, z: -0.02279687}
 --- !u!54 &2089102934
 Rigidbody:
   m_ObjectHideFlags: 0
